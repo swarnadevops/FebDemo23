@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Masking few more changes
 =======
+<<<<<<< HEAD
 hjgfsdjfgds
+=======
+=======
+
+Rebase on branch1
+Making changes in branch1
+>>>>>>> 62744df (rebase on branch)
+>>>>>>> 7dc9d81 (conflict)
 Testing branches
 Creating a new file for testing
 Creating rebase
